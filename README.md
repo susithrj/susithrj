@@ -1,14 +1,14 @@
 ### Hello Folks! 👋
  ## I'm a final year software enginnering undegrduate @ university of westminster.
  
- <p align='center'>
+ <p align='right'>
 
 <a href="https://www.linkedin.com/in/susithrj"><img height="30" src="https://github.com/janethavi/janethavi/blob/main/Icons/linkedin.png?raw=true"></a>
 <a href="https://medium.com/@susithrj"><img height="30" src="https://github.com/janethavi/janethavi/blob/main/Icons/medium.png?raw=true"></a>
 
 </p>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<susithrj>&theme=<Susith's Status>" />
+
 
 
 <!--
