@@ -1,5 +1,13 @@
 ### Hello Folks! 👋
  ## I'm a final year software enginnering undegrduate @ university of westminster.
+ 
+ <p align='center'>
+
+<a href="https://www.linkedin.com/in/susithrj"><img height="30" src="https://github.com/janethavi/janethavi/blob/main/Icons/linkedin.png?raw=true"></a>
+<a href="https://medium.com/susithrj"><img height="30" src="https://github.com/janethavi/janethavi/blob/main/Icons/medium.png?raw=true"></a>
+
+</p>
+![Susith's Github Stats](https://github-readme-stats.vercel.app/api?username=susithrj&show_icons=true&theme=radical)
 
 <!--
 **susithrj/susithrj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
