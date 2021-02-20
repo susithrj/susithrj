@@ -24,6 +24,8 @@
 
 ![Susith's Github Stats](https://github-readme-stats.vercel.app/api?username=susithrj&show_icons=true&theme=radical)
 
+[!Susithrj's GitHub stats](https://github-readme-stats.vercel.app/api?username=susithrj)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 <!--
