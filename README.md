@@ -1,11 +1,11 @@
 ### Hello Folks! I'm Susith 👋
- ## I'm a final year software enginnering undegrduate @ university of westminster. I worked as a software engineering intern at [DIRECTFN].
- ## I 'm computer enthusiast and hobbyist currently working on Computer Vision research.
+ ## I'm a final year software enginnering undegrduate @ university of westminster. I worked as a software engineering intern at [DIRECTFN].I'm currently working on my final year reseach project based on Computer Vision.
+
  
  
 <p align='center'>
 
-<a href="https://www.linkedin.com/in/susithrj"><img height="30" src="https://github.com/susithrj/susithrj/blob/main/icons/linkedin.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/susithrj"><img height="30" src="https://github.com/susithrj/susithrj/blob/main/icons/linkedin.png?raw=true"></a>
 <a href="https://medium.com/@susithrj"><img height="30" src="https://github.com/susithrj/susithrj/blob/main/icons/medium.png?raw=true"></a>
 <a href="https://twitter.com/susithrj"><img height="30" src="https://github.com/susithrj/susithrj/blob/main/icons/twitter.png?raw=true"></a>
 <a href="https://www.instagram.com/susithrj"><img height="30" src="https://github.com/susithrj/susithrj/blob/main/icons/instagram.png?raw=true"></a>
