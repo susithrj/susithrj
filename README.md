@@ -8,7 +8,7 @@
 
 
 ### Hello Folks! I'm Susith 👋
- ## I'm a final year software enginnering undegrduate @ university of westminster. I worked as a software engineering intern at [DIRECTFN].I'm currently working on my final year reseach project based on Computer Vision.
+ ## I'm a final year software enginnering undegrduate @ university of westminster. I worked as a software engineering intern at DIRECTFN.I'm currently working on my final year reseach project based on Computer Vision.
 
  
 
