@@ -2,7 +2,7 @@
  ## I'm a final year software enginnering undegrduate @ university of westminster.
  
  
-p align='center'>
+<p align='center'>
 <a href="https://www.instagram.com/susithrj_"><img height="30" src="https://github.com/susithrj/susithrj/blob/main/Icons/instagram.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/susithrj"><img height="30" src="https://github.com/susithrj/susithrj/blob/main/Icons/linkedin.png?raw=true"></a>
 <a href="https://medium.com/@susithrj"><img height="30" src="https://github.com/susithrj/susithrj/blob/main/Icons/medium.png?raw=true"></a>
