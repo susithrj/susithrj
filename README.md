@@ -5,6 +5,8 @@
 <a href="https://twitter.com/susithrj"><img height="30" src="https://github.com/susithrj/susithrj/blob/main/icons/twitter.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://www.instagram.com/susithrj"><img height="30" src="https://github.com/susithrj/susithrj/blob/main/icons/instagram.png?raw=true"></a>
 </p>
+<br />
+<img align="right" alt="GIF" src="https://media2.giphy.com/media/6heBQSjt2IoA8/giphy.gif?cid=ecf05e472f30c733da45797cd3588b4ae0905053fefb7e54&rid=giphy.gif" />
 
 
 ### Hello Folks! I'm Susith 👋
