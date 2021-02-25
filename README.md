@@ -23,6 +23,8 @@
 
 ![Susith's Github Stats](https://github-readme-stats.vercel.app/api?username=susithrj&show_icons=true&theme=radical)
 
+![My Language Proficiency](https://github-readme-stats.vercel.app/api/top-langs/?username=nandulaperera&layout=compact)
+
 
 
 
