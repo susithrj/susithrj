@@ -7,7 +7,7 @@
 </p>
 <br />
 <img align="right" alt="GIF" src="https://media.giphy.com/media/cFdHXXm5GhJsc/giphy.gif" />
-
+<br />
 
 ### Hello Folks! I'm Susith 👋
  ## I'm a final year software enginnering undegrduate @ university of westminster. I worked as a software engineering intern at DirectFN. I'm currently working on my final year reseach project based on Computer Vision.
@@ -22,7 +22,7 @@
 [<img align="left" alt="susith | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <p>&nbsp;</p> -->
-<br />
+
 ![Susith's Github Stats](https://github-readme-stats.vercel.app/api?username=susithrj&show_icons=true&theme=radical)
 
 
