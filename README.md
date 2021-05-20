@@ -7,7 +7,7 @@
 </p>
 <br />
 <img align="right" alt="GIF" src="https://media.giphy.com/media/CcwLAV11cALh3OuEJ5/giphy.gif" />
-
+<br />
 
 ### Hello Folks! I'm Susith 👋
  ## I'm a final year software enginnering undegrduate @ university of westminster. I worked as a software engineering intern at DirectFN. I'm currently working on my final year reseach project based on Computer Vision.
