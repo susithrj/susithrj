@@ -22,7 +22,7 @@
 [<img align="left" alt="susith | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <p>&nbsp;</p> -->
-
+<br />
 ![Susith's Github Stats](https://github-readme-stats.vercel.app/api?username=susithrj&show_icons=true&theme=radical)
 
 
