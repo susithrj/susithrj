@@ -6,8 +6,8 @@
 <a href="https://www.instagram.com/susithrj"><img height="30" src="https://github.com/susithrj/susithrj/blob/main/icons/instagram.png?raw=true"></a>
 </p>
 <br />
-<img align="right" alt="GIF" src="https://media.giphy.com/media/CcwLAV11cALh3OuEJ5/giphy.gif" />
-<br />
+<img align="center" alt="GIF" src="https://media.giphy.com/media/CcwLAV11cALh3OuEJ5/giphy.gif" />
+
 
 ### Hello Folks! I'm Susith 👋
  ## I'm a final year software enginnering undegrduate @ university of westminster. I worked as a software engineering intern at DirectFN. I'm currently working on my final year reseach project based on Computer Vision.
