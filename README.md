@@ -6,13 +6,13 @@
 <a href="https://www.instagram.com/susithrj"><img height="30" src="https://github.com/susithrj/susithrj/blob/main/icons/instagram.png?raw=true"></a>
 </p>
 <br />
-
+<img align="right" alt="GIF" src="https://media.giphy.com/media/cFdHXXm5GhJsc/giphy.gif" />
 
 
 ### Hello Folks! I'm Susith 👋
  ## I'm a final year software enginnering undegrduate @ university of westminster. I worked as a software engineering intern at DirectFN. I'm currently working on my final year reseach project based on Computer Vision.
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/cFdHXXm5GhJsc/giphy.gif" />
+
 <!-- <br />
 
 [<img align="left" alt="susith | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
