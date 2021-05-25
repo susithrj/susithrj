@@ -3,6 +3,7 @@
 </a>&nbsp;&nbsp;
 <a href="https://susithrj.medium.com"><img height="30" src="https://github.com/susithrj/susithrj/blob/main/icons/medium.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://twitter.com/susithrj"><img height="30" src="https://github.com/susithrj/susithrj/blob/main/icons/twitter.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://susithrj.wordpress.com"><img height="30" src="https://github.com/susithrj/susithrj/blob/main/icons/wordpress.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://www.instagram.com/susithrj"><img height="30" src="https://github.com/susithrj/susithrj/blob/main/icons/instagram.png?raw=true"></a>
 </p>
 <br />
