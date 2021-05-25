@@ -9,7 +9,6 @@
 <br />
 <img align="right" alt="GIF" src="https://media.giphy.com/media/3oriO7A7bt1wsEP4cw/giphy.gif" />
 
-
 ### Hello Folks! I'm Susith 👋
  ## I'm a final year software enginnering undegrduate @ University of Westminster. I worked as a software engineering intern at DirectFN. I really love in software engineering & cloud computing. I'm currently working on my final year reseach project based on Computer Vision.
 
