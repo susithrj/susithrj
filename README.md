@@ -10,7 +10,7 @@
 <img align="right" alt="GIF" src="https://media.giphy.com/media/3oriO7A7bt1wsEP4cw/giphy.gif" />
 
 ### Hello Folks! I'm Susith 👋
- ## I'm a software engineering fresh graduate from University of Westminster. Currently, I'm working as a software engineering at DirectFN. I really love in software engineering & cloud computing. I recently published my final year reseach based on Computer Vision/Deep Learning.
+ ## I'm a software engineering graduate from University of Westminster. Currently, I'm working as a software engineering at DirectFN. I really love in software engineering & cloud computing. I recently published my final year reseach based on Computer Vision/Deep Learning.
 
 
 <!-- <br />
