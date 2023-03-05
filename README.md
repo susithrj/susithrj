@@ -10,7 +10,7 @@
 <img align="right" alt="GIF" src="https://media.giphy.com/media/3oriO7A7bt1wsEP4cw/giphy.gif" />
 
 ### Hello Folks! I'm Susith 👋
- ##   Currently, I'm working as a software engineering at DirectFN & fresh graduate from university of Westminster. I'm interested in software architecture designing , distributed sytems & cloud computing. I recently published my final year reseach based on computer vision/deep learning.
+ ##   Currently, I'm working as a software engineering at DirectFN & a fresh graduate from university of Westminster. I'm interested in software architecture designing , distributed sytems & cloud computing. I recently published my final year reseach based on computer vision/deep learning.
 
 
 <!-- <br />
