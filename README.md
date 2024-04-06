@@ -8,9 +8,7 @@
 <br />
 <img align="right" alt="GIF" src="https://media.giphy.com/media/3oriO7A7bt1wsEP4cw/giphy.gif" />
 
-### Hello Folks! I'm Susith 👋
- ##   I build backends for 4+ years in industry. I'm interested in software architecture designing , distributed sytems & cloud computing. I'm graduated back in 2021 from University of westminster and published my final year reseach based on computer vision/deep learning.
-
+### Hello Folks! I'm Susith RJ 👋
 
 <!-- <br />
 
