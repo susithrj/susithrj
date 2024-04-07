@@ -1,3 +1,4 @@
+### Hello Folks! I'm Susith RJ 👋 , Connect with me
 <p align='center'>
 <a href="https://www.linkedin.com/in/susithrj"><img height="30" src="https://github.com/susithrj/susithrj/blob/main/icons/linkedin.png?raw=true">
 </a>&nbsp;&nbsp;
@@ -8,7 +9,7 @@
 <br />
 <img align="right" alt="GIF" src="https://media.giphy.com/media/3oriO7A7bt1wsEP4cw/giphy.gif" />
 
-### Hello Folks! I'm Susith RJ 👋
+
 
 <!-- <br />
 
