@@ -1,4 +1,4 @@
- ### Hello Folks! I'm Susith RJ 👋 , Connect with me
+ ### Hello Folks! I'm Susith RJ 👋 
 <p align='left'> 
 <a href="https://www.linkedin.com/in/susithrj"><img height="30" src="https://github.com/susithrj/susithrj/blob/main/icons/linkedin.png?raw=true">
 </a>&nbsp;&nbsp;
