@@ -1,5 +1,6 @@
-### Hello Folks! I'm Susith RJ 👋 , Connect with me
+
 <p align='right'>
+  ### Hello Folks! I'm Susith RJ 👋 , Connect with me
 <a href="https://www.linkedin.com/in/susithrj"><img height="30" src="https://github.com/susithrj/susithrj/blob/main/icons/linkedin.png?raw=true">
 </a>&nbsp;&nbsp;
 <a href="https://susithrj.medium.com"><img height="30" src="https://github.com/susithrj/susithrj/blob/main/icons/medium.png?raw=true"></a>&nbsp;&nbsp;
